@@ -15,8 +15,7 @@
 <!-- .slide vertical=true -->
 
 - E-mail:
-  - **()**
-  - **[](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **(mailto:(359405846@qq.com))**
 - WeChat: ****
 
 <!-- .slide -->
@@ -38,7 +37,7 @@
 
 ## Honors
 
-- ****, 
+
 
 <!-- .slide vertical=true -->
 
